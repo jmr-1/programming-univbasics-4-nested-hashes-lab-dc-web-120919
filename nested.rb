@@ -38,7 +38,7 @@ def alan_kay_is_known_for
         }
      }
   
-  programmer_hash[:alan_kay][:known_for]
+  programmer_hash[:alan_kay][:known_for][0]
 end
 
 def dennis_ritchies_language
